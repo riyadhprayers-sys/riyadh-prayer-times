@@ -19,9 +19,6 @@ This script fetches and parses daily prayer time data and displays it in a clean
 ## Example of output when script is run in a terminal emulator
 
 ```
-        Prayer Timetable
-
-           0          1
 0    Prayer Name   Prayer Time
 1        Fajr          4:15
 2       Sunrise        5:42
